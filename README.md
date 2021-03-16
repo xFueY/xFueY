@@ -2,4 +2,4 @@
 <br>
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xfuey&theme=dark&layout=compact)
 
-1[Profile Views](https://komarev.com/ghpvc/?username=xFueY)
+![Profile Views](https://komarev.com/ghpvc/?username=xFueY)
